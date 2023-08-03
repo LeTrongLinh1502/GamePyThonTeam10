@@ -1,4 +1,4 @@
-#Game Mario
+# Game Mario
 
 ![image](https://github.com/LeTrongLinh1502/GamePyThonTeam10/assets/91041371/03c33119-f461-4220-b499-d9c320a2416c)
 
